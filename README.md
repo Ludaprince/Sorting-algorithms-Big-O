@@ -1,1 +1,1 @@
-Sorting Algorithm & Big-O
+my readme file for sortimg algorithm
